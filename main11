@@ -1,0 +1,11 @@
+name = "dominic"
+age = 25
+is_student = False
+weight = 62
+print(name)
+print(age)
+print(is_student)
+print(weight)
+print("name :", name)
+print("age :", age)
+
